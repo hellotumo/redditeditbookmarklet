@@ -1,0 +1,1 @@
+javascript:(function(){ var url = window.location.href; var newurl = url.replace("edit", ""); window.location.href = newurl;})();
